@@ -1,3 +1,7 @@
+'''
+This program aims to visualize the probability integral transform
+'''
+
 import numpy as np
 import scipy.stats as st
 import seaborn as sns
